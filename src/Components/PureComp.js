@@ -5,7 +5,7 @@ export class PureComp extends PureComponent {
       console.log("Pure Component Rendered from")
     return (
       <div>
-        <p>Im the Pure Component {this.props.name}</p>
+        Im the Pure Component {this.props.name}
 
       </div>
     )
