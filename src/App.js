@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.css';
 import  ClassComp from "./Components/ClassComponent"
 import  FunctionalComp from "./Components/FunctionalComponent"
 import Click from "./Components/Click"
